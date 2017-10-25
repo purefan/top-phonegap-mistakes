@@ -12,7 +12,6 @@ Many of these frameworks cross-over directly into Cordova and Phonegap. The larg
 2. [Ionic](http://ionicframework.com/)
 3. [Monaca](https://monaca.io/)
 4. [Onsen UI](http://onsen.io/)
-5. [Taco](http://taco.tools/)
 6. [Telerik](http://www.telerik.com/)
 7. [Cocoon](http://cocoon.io/)
 8. [Framework7](http://www.idangero.us/framework7/)
@@ -47,6 +46,7 @@ Many of these frameworks cross-over directly into Cordova and Phonegap. The larg
 2. Facebook [React](http://facebook.github.io/react/) - better for web
 3. Twitter [Bootstrap](http://getbootstrap.com/) - better for web
 3. [famo.us](http://famous.org/) - Famo.us has been waffling since it started.
+4. [Taco](http://taco.tools/) - Discontinued
 
 <a name=tools>
 ### Tools ###
